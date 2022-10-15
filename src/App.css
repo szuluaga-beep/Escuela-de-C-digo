@@ -8,10 +8,15 @@
      src: url(./Assets/fonts/Cocogoose\ Pro\ Light-trial.ttf);
 }
 
+@font-face {
+     font-family: coogose-thin;
+     src: url(./Assets/fonts/Cocogoose\ Pro\ Thin-trial.ttf);
+}
+
 :root {
      --yellow: #ffcb05;
      --black: #000000;
-     --blue:#1655b2;
+     --blue: #1655b2;
 }
 
 * {

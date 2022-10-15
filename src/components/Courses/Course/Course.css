@@ -1,0 +1,35 @@
+.course {
+     width: 100%;
+     padding: 2rem;
+     margin: 0.3rem 0;
+     border-radius: 0.8rem;
+     text-align: center;
+     background: rgba(54, 31, 31, 0.05);
+     box-shadow: 0 2px 50px 0 rgba(22, 85, 178, 0.5);
+     backdrop-filter: blur(18px);
+     -webkit-backdrop-filter: blur(18px);
+     border: 1px solid rgba(255, 255, 255, 0.18);
+
+}
+
+.image-course {
+     width: 350px;
+}
+
+.title-course {
+     font-family: coogose-light;
+     font-weight: 900;
+     font-size: 1.5rem;
+}
+
+.description-course {
+     font-family: coogose-light;
+}
+
+.container-skills {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     gap: 0.3rem;
+     margin-top: 0.5rem;
+     flex-wrap: wrap;
+}

@@ -1,7 +1,7 @@
 .navbar {
      display: flex;
      justify-content: space-around;
-     width: 100vw;
+     width: 90vw;
      height: 10%;
      align-items: center;
      padding: 0.5rem 0;
@@ -32,5 +32,10 @@
 }
 
 .link-item:hover {
-     color: var(--yellow);
+     border-bottom: 5px dotted var(--yellow);
+     transition: linear .1s;
+     -webkit-transition: linear .1s;
+     -moz-transition: linear .1s;
+     -ms-transition: linear .1s;
+     -o-transition: linear .1s;
 }

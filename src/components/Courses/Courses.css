@@ -1,0 +1,13 @@
+.container-courses {
+     display: grid;
+     margin: 0 auto;
+     grid-template-columns: 1fr 1fr;
+     width: calc(100vw - 3rem);
+     justify-items: center;
+}
+
+.title-courses {
+     text-align: center;
+     font-family: coogose-bold;
+     margin: 1.2rem 0;
+}

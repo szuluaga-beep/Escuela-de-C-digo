@@ -1,7 +1,13 @@
 .react-slideshow-container {
      width: 80vw;
      margin: 1.2rem auto;
+     background: rgba(54, 31, 31, 0.05);
+     box-shadow: 0 2px 50px 0 rgba(22, 85, 178, 0.5);
+     backdrop-filter: blur(18px);
+     -webkit-backdrop-filter: blur(18px);
+     border: 1px solid rgba(255, 255, 255, 0.18);
 }
+
 .each-slide-effect {
      display: flex;
      align-items: center;
@@ -17,6 +23,7 @@
 
 .each-slide-effect a {
      padding: 20px;
+     font-family: cursive;
      font-size: 1.2rem;
      background: #efefef;
      position: absolute;
