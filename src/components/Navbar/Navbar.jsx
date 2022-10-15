@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../Assets/Logo.png'
+import Logo from '../../Assets/img/Logo.png'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -10,8 +10,8 @@ const Navbar = () => {
                </div>
                <div>
                     <ul className='items-navbar'>
-                         <li className='item-navbar'><a  className='link-item' href='#'>Sobre nosotros</a></li>
-                         <li className='item-navbar'><a  className='link-item' href='#'>Carreras</a></li>
+                         <li className='item-navbar'><a className='link-item' href='#Slider'>Sobre nosotros</a></li>
+                         <li className='item-navbar'><a className='link-item' href='#About'>Carreras</a></li>
                          <li className='item-navbar'><a className='link-item'  href='#'>Noticias</a></li>
                          
                     </ul>
