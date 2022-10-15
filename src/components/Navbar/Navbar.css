@@ -1,0 +1,32 @@
+.navbar {
+     display: flex;
+     justify-content: space-around;
+     width: 100vw;
+     height: 10%;
+     align-items: center;
+}
+
+.logo-navbar {
+     width: 300px;
+}
+
+.items-navbar {
+     display: flex;
+     gap: 1.2rem;
+     flex-wrap: wrap;
+     text-align: center;
+}
+
+.item-navbar {
+     list-style: none;
+     font-size: 1.2rem;
+     font-weight: bolder;
+     text-transform: uppercase;
+}
+
+.link-item {
+     text-decoration: none;
+}
+.link-item:hover {
+     color: #8338ec;
+}
