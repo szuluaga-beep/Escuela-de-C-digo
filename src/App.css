@@ -1,5 +1,21 @@
-*{
+@font-face {
+     font-family: coogose-bold;
+     src: url(./Assets/fonts/Cocogoose\ Pro-trial.ttf);
+}
+
+@font-face {
+     font-family: coogose-light;
+     src: url(./Assets/fonts/Cocogoose\ Pro\ Light-trial.ttf);
+}
+
+:root {
+     --yellow: #ffcb05;
+     --black: #000000;
+}
+
+* {
      margin: 0;
      padding: 0;
      box-sizing: border-box;
 }
+
