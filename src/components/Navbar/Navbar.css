@@ -4,6 +4,7 @@
      width: 100vw;
      height: 10%;
      align-items: center;
+     padding: 0.5rem 0;
 }
 
 .logo-navbar {
@@ -21,12 +22,15 @@
      list-style: none;
      font-size: 1.2rem;
      font-weight: bolder;
-     text-transform: uppercase;
+     /* text-transform: uppercase; */
 }
 
 .link-item {
      text-decoration: none;
+     font-family: coogose-bold;
+     color: var(--black);
 }
+
 .link-item:hover {
-     color: #8338ec;
+     color: var(--yellow);
 }
