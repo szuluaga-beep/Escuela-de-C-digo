@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/szuluaga-beep/Escuela-de-C-digo/static/css/main.432da21a.css",
+    "main.js": "/szuluaga-beep/Escuela-de-C-digo/static/js/main.02e0f1c8.js",
+    "static/media/Cocogoose Pro Thin-trial.ttf": "/szuluaga-beep/Escuela-de-C-digo/static/media/Cocogoose Pro Thin-trial.6440e32616f290a797e9.ttf",
+    "static/media/Cocogoose Pro-trial.ttf": "/szuluaga-beep/Escuela-de-C-digo/static/media/Cocogoose Pro-trial.fc4c5187ea318bde306b.ttf",
+    "static/media/Cocogoose Pro Light-trial.ttf": "/szuluaga-beep/Escuela-de-C-digo/static/media/Cocogoose Pro Light-trial.f77876cfc3790e5308f4.ttf",
+    "static/media/Logo.png": "/szuluaga-beep/Escuela-de-C-digo/static/media/Logo.3b0dc98ce9a304cc205a.png",
+    "index.html": "/szuluaga-beep/Escuela-de-C-digo/index.html",
+    "main.432da21a.css.map": "/szuluaga-beep/Escuela-de-C-digo/static/css/main.432da21a.css.map",
+    "main.02e0f1c8.js.map": "/szuluaga-beep/Escuela-de-C-digo/static/js/main.02e0f1c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.432da21a.css",
+    "static/js/main.02e0f1c8.js"
+  ]
+}
