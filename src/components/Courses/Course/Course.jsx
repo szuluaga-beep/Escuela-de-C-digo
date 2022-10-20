@@ -2,7 +2,7 @@ import React from 'react'
 import './Course.css'
 import Skill from './Skill/Skil'
 
-const Course = ({ course: { id, name, imageCourse, description, skills } }) => {
+const Course = ({ course: { id, name, imageCourse, teacher, skills } }) => {
      return (
           <section className='course'>
                <img className='image-course' src={imageCourse} alt={name} />
@@ -12,7 +12,7 @@ const Course = ({ course: { id, name, imageCourse, description, skills } }) => {
                     </span>
                     <p className='description-course'>
                          {
-                              description
+                              teacher
                          }
                     </p>
                     <div className='container-skills'>

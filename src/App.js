@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <Titulo titulo={`<<EL CRIMEN NO PAGA TANTO COMO EL CODIGO>>`} />
+      <Titulo titulo={`<<EL CRiMEN NO PAGA TANTO COMO EL CODIGO>>`} />
       <Slider />
       <Courses />
     </div>

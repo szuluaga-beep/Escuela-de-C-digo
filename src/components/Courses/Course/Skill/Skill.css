@@ -1,9 +1,11 @@
 .skill {
+     position: absolute;
+     bottom: 250px;
      display: flex;
-     width: 250px;
+     width: 100px;
      margin: 0 0.5rem;
      background-color: #0dccac;
-     padding: 1.8rem;
+     padding: 0.4rem;
      border-radius: 0.9rem;
      -webkit-border-radius: 0.9rem;
      -moz-border-radius: 0.9rem;
