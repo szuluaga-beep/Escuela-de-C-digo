@@ -1,6 +1,5 @@
 .skill {
-     position: absolute;
-     bottom: 250px;
+    
      display: flex;
      width: 100px;
      margin: 0 0.5rem;
