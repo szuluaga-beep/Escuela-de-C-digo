@@ -2,10 +2,10 @@ import React from 'react'
 import './Course.css'
 import Skill from './Skill/Skil'
 
-const Course = ({ course: { id, name, imageCourse, teacher, skills } }) => {
+const Course = ({ course: { _id, name, teacher, imgCareer,program, skills } }) => {
      return (
           <section className='course'>
-               <img className='image-course' src={imageCourse} alt={name} />
+               <img className='image-course' src={imgCareer} alt={name} />
                <div>
                     <span className='title-course'>
                          {name}
