@@ -1,0 +1,14 @@
+.titulo-noticia {
+     color: var(--blue);
+     font-family: "coogose-thin";
+     font-weight: bolder;
+     font-size: 1.5rem;
+}
+
+.imagen-noticia {
+   
+     width: 80%;
+     height: 300px;
+     max-width: 365px;
+     border-radius: 0.8rem;
+}
