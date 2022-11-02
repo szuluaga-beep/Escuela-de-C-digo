@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Escuela-de-C-digo/static/css/main.8f144443.css",
-    "main.js": "/Escuela-de-C-digo/static/js/main.6193ba81.js",
+    "main.css": "/Escuela-de-C-digo/static/css/main.7dd2b5ac.css",
+    "main.js": "/Escuela-de-C-digo/static/js/main.217a2639.js",
     "static/media/Cocogoose Pro Thin-trial.ttf": "/Escuela-de-C-digo/static/media/Cocogoose Pro Thin-trial.6440e32616f290a797e9.ttf",
     "static/media/Cocogoose Pro-trial.ttf": "/Escuela-de-C-digo/static/media/Cocogoose Pro-trial.fc4c5187ea318bde306b.ttf",
     "static/media/Cocogoose Pro Light-trial.ttf": "/Escuela-de-C-digo/static/media/Cocogoose Pro Light-trial.f77876cfc3790e5308f4.ttf",
     "static/media/Logo.png": "/Escuela-de-C-digo/static/media/Logo.3b0dc98ce9a304cc205a.png",
     "index.html": "/Escuela-de-C-digo/index.html",
-    "main.8f144443.css.map": "/Escuela-de-C-digo/static/css/main.8f144443.css.map",
-    "main.6193ba81.js.map": "/Escuela-de-C-digo/static/js/main.6193ba81.js.map"
+    "main.7dd2b5ac.css.map": "/Escuela-de-C-digo/static/css/main.7dd2b5ac.css.map",
+    "main.217a2639.js.map": "/Escuela-de-C-digo/static/js/main.217a2639.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f144443.css",
-    "static/js/main.6193ba81.js"
+    "static/css/main.7dd2b5ac.css",
+    "static/js/main.217a2639.js"
   ]
 }
