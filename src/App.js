@@ -14,7 +14,8 @@ const App = () => {
       <Titulo titulo={`<<EL CRiMEN NO PAGA TANTO COMO EL CODIGO>>`} />
       <Slider />
       <Courses />
-      <News/>
+      <News />
+     
     </div>
   )
 }

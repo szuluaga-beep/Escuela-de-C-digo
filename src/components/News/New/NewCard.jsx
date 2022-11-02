@@ -1,27 +1,38 @@
 import React from 'react'
+import Card from '@mui/material/Card';
+import CardActions from '@mui/material/CardActions';
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import Button from '@mui/material/Button';
+import Typography from '@mui/material/Typography';
 import './NewCard.css'
 
 const NewCard = ({ newsData: { _id, name, imageNew, Date, author } }) => {
      return (
-          <div className='card-new'>
-               <h1 className='titulo-noticia'>
-                    {name}
-               </h1>
-               <img
-                    className='imagen-noticia'
-                    src={imageNew}
+          <Card sx={{ maxWidth: 300 }}>
+               <CardMedia
+                    component="img"
+                    height="200"
+                    image={imageNew}
                     alt={name}
-
                />
-               <span>
-                    {
-                         author
-                    }
-               </span>
-               <p>
-                    { Date}
-               </p>
-          </div>
+               <CardContent>
+                    <Typography gutterBottom variant="h4" component="div">
+                         {name}
+                    </Typography>
+                    <Typography variant="body2" color="text.secondary">
+                        {author}
+                    </Typography>
+                    <Typography variant="body2" color="text.danger">
+                         {Date}
+                    </Typography>
+               </CardContent>
+               <CardActions>
+                    <Button size="small">Ver noticia</Button>
+                    
+               </CardActions>
+          </Card>
+       
      )
 }
 

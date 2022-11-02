@@ -2,7 +2,7 @@
      /* background-color: var(--black); */
      display: grid;
      margin: 0 auto;
-     grid-template-columns: 1fr 1fr;
+     grid-template-columns: 1fr 1fr 1fr;
      width: calc(100vw - 3rem);
      justify-items: center;
      padding: 2rem 0;
