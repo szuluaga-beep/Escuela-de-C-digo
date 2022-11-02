@@ -17,8 +17,9 @@
 }
 
 .image {
-     width: 100%;
-     height: 500px;
+     /* width: 100%;
+     height: 500px; */
+     /* display: block; */
 }
 
 .each-slide-effect a {
